@@ -12,8 +12,9 @@ SSTap 1.1.0.1 & [官方下载](https://www.sockscap64.com/sstap/) & [蓝奏�
 Shadowsocks 4.0.6& [蓝奏云](https://pan.lanzou.com/i0dsj8d)  
 ShadowsocksR 4.7.0 &[蓝奏云](https://pan.lanzou.com/i0dsjkf)  
 ShadowsocksRR 4.9.0 & [Github地址 & ](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)[蓝奏云](https://pan.lanzou.com/i0dsjpa)  
-无界浏览 [& ](http://p0hdzoi6o.bkt.clouddn.com/ssr/pc/%E6%97%A0%E7%95%8C%E6%B5%8F%E8%A7%88.7z)[蓝奏云](https://pan.lanzou.com/i0dsk1c)  
-OSX(未测试)  
+无界浏览 [& ](http://p0hdzoi6o.bkt.clouddn.com/ssr/pc/%E6%97%A0%E7%95%8C%E6%B5%8F%E8%A7%88.7z)[蓝奏云](https://pan.lanzou.com/i0dsk1c)  
+>OSX(未测试)  
+
 ShadowsocksX-NG 1.7.1 & [Github地址 & ](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)[蓝奏云](https://pan.lanzou.com/i0j50nc)  
 GoAgentX [& ](http://p0hdzoi6o.bkt.clouddn.com/ssr/osx/GoAgentX-v2.3.7.dmg)[蓝奏云](https://pan.lanzou.com/i0dskef)  
 非官方GoAgentX & [Github地址 & ](https://github.com/mithril-global/GoAgentX)[蓝奏云](https://pan.lanzou.com/i0dskja)  
