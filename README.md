@@ -25,6 +25,7 @@ SSR & [蓝奏云](https://pan.lanzou.com/i0fzv5g)
 [ShadowsocksR](https://github.com/shadowsocksrr/shadowsocksr) (无GUI界面)  
 [electron-ssr](https://github.com/erguotou520/electron-ssr) (推荐)  
 >Android  
+
 Shadowsocks 4.2.5 & [Github地址](https://github.com/shadowsocks/shadowsocks-android/blob/master/README.md#open-source-licenses) & [Google play](https://play.google.com/store/apps/details?id=com.github.shadowsocks) & [官方网站 & ](https://shadowsocks.org/)[蓝奏云](https://pan.lanzou.com/i0dsl7e)  
 ShadowsocksR [& ](http://p0hdzoi6o.bkt.clouddn.com/ssr/pe/ShadowsocksR.apk)[蓝奏云](https://pan.lanzou.com/i0dsl8f)  
 ShadowsocksRR [& ](http://p0hdzoi6o.bkt.clouddn.com/ssr/pe/shadowsocksr-android-3.5.1.apk)[蓝奏云](https://pan.lanzou.com/i0dslbi)  
