@@ -3,6 +3,7 @@ v2ray
 windows [github地址](https://github.com/2dust/v2rayN/releases)<br>
 mac [github地址](https://github.com/yanue/V2rayU/releases)<br>
 android [github地址](https://github.com/2dust/v2rayNG/releases)<br>
+ios: https://www.flyzy2005.com/fan-qiang/ios-shadowrocket-ss-ssr-v2ray-client/
 其他：https://www.v2ray.com/awesome/tools.html
 
 
