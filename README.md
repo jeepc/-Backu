@@ -1,8 +1,8 @@
 v2ray
 ==================================================================
-windows [github地址](https://github.com/2dust/v2rayN/releases)
-mac [github地址](https://github.com/yanue/V2rayU/releases)
-android [github地址](https://github.com/2dust/v2rayNG/releases)
+windows [github地址](https://github.com/2dust/v2rayN/releases)<br>
+mac [github地址](https://github.com/yanue/V2rayU/releases)<br>
+android [github地址](https://github.com/2dust/v2rayNG/releases)<br>
 其他：https://www.v2ray.com/awesome/tools.html
 
 
