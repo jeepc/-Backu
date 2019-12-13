@@ -1,4 +1,9 @@
- 
+v2ray
+==================================================================
+windows [github地址](https://github.com/2dust/v2rayN/releases)
+mac [github地址](https://github.com/yanue/V2rayU/releases)
+android [github地址](https://github.com/2dust/v2rayNG/releases)
+其他：https://www.v2ray.com/awesome/tools.html
 
 
 各版本酸酸乳客户端下载
